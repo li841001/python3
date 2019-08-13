@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7c5bb95-debb-4d1c-a52c-1cd153d6816b" name="Default Changelist" comment="" />
+    <list default="true" id="b7c5bb95-debb-4d1c-a52c-1cd153d6816b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L14/L14_l1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L13/食物热量表.csv" beforeDir="false" afterPath="$PROJECT_DIR$/L13/食物热量表.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L13/L13_l1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
+            <state relative-caret-position="510">
               <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/L14/L14_l1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -56,10 +70,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/L2_lecture/L2_lecture.py" />
         <option value="$PROJECT_DIR$/L2_lecture/L2_practice.html" />
         <option value="$PROJECT_DIR$/L3/L3_practice1.py" />
         <option value="$PROJECT_DIR$/L3/L3_lecture.py" />
@@ -110,6 +126,7 @@
         <option value="$PROJECT_DIR$/L12/L12_l2.py" />
         <option value="$PROJECT_DIR$/L12/L12_p1_tv.py" />
         <option value="$PROJECT_DIR$/L13/L13_l1.py" />
+        <option value="$PROJECT_DIR$/L14/L14_l1.py" />
       </list>
     </option>
   </component>
@@ -117,6 +134,9 @@
     <option name="x" value="2220" />
     <option name="width" value="340" />
     <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -141,21 +161,6 @@
               <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
               <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L13" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -164,9 +169,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -187,29 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.L13_l1">
-    <configuration name="L12_l1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="爬虫课" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L12/L12_l1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.L14_l1">
     <configuration name="L12_l2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫课" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,6 +261,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="L14_l1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="爬虫课" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/L14/L14_l1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="爬虫课" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.L14_l1" />
         <item itemvalue="Python.L13_l1" />
         <item itemvalue="Python.L12_p1_tv" />
         <item itemvalue="Python.L12_l2" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.L12_l1" />
       </list>
     </recent_temporary>
   </component>
@@ -320,12 +327,12 @@
       <updated>1564843034385</updated>
       <workItem from="1564843035589" duration="34003000" />
       <workItem from="1565026062812" duration="24268000" />
-      <workItem from="1565233843867" duration="99626000" />
+      <workItem from="1565233843867" duration="101797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157897000" />
+    <option name="totallyTimeSpent" value="160068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1437" y="0" width="1123" height="1440" extended-state="0" />
@@ -333,9 +340,10 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2960222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" sideWeight="0.4986124" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4991883" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991883" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -343,7 +351,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5008117" side_tool="true" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5013876" side_tool="true" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -395,25 +403,16 @@
     <SUITE FILE_PATH="coverage/$L1_test2_novel.coverage" NAME="L1_test2_novel Coverage Results" MODIFIED="1564846371875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L1" />
     <SUITE FILE_PATH="coverage/$L10_l1.coverage" NAME="L10_l1 Coverage Results" MODIFIED="1565460158466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10" />
     <SUITE FILE_PATH="coverage/$L6_p_kuaidi100.coverage" NAME="L6_p_kuaidi100 Coverage Results" MODIFIED="1565151537216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6" />
-    <SUITE FILE_PATH="coverage/$L13_l1.coverage" NAME="L13_l1 Coverage Results" MODIFIED="1565631806695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L13" />
+    <SUITE FILE_PATH="coverage/$L13_l1.coverage" NAME="L13_l1 Coverage Results" MODIFIED="1565682927197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L13" />
     <SUITE FILE_PATH="coverage/$L10_p2_pythonZen.coverage" NAME="L10_p2_pythonZen Coverage Results" MODIFIED="1565533448315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L10" />
     <SUITE FILE_PATH="coverage/$L12_l1.coverage" NAME="L12_l1 Coverage Results" MODIFIED="1565604945048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L12" />
     <SUITE FILE_PATH="coverage/$L7_practice_douban_2.coverage" NAME="L7_practice_douban_2 Coverage Results" MODIFIED="1565549663647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L7" />
     <SUITE FILE_PATH="coverage/$header.coverage" NAME="header Coverage Results" MODIFIED="1565244603946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L8" />
     <SUITE FILE_PATH="coverage/$L5_practice_lyrics.coverage" NAME="L5_practice_lyrics Coverage Results" MODIFIED="1565111481298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L6" />
     <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1565615978702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L12" />
+    <SUITE FILE_PATH="coverage/$L14_l1.coverage" NAME="L14_l1 Coverage Results" MODIFIED="1565694780590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L14" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/L3/L3_practice_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/L3/L3_practice1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -790,12 +789,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/L13/食物热量表.csv">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/L13/L13_l1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
+        <state relative-caret-position="510">
           <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L14/L14_l1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
