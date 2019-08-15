@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7c5bb95-debb-4d1c-a52c-1cd153d6816b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/L15P1douban/L15P1douban/spiders/book50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L15P1douban/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L15jobui/L15jobui/spiders/spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L15jobui/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7c5bb95-debb-4d1c-a52c-1cd153d6816b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +23,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/L15jobui/L15jobui/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+            <state relative-caret-position="437">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -58,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="-316">
+              <caret line="21" selection-start-line="16" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -76,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/spiders/book50.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
-              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+              <caret line="28" column="22" selection-end-line="28" selection-end-column="22" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -92,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/items.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <caret line="16" column="29" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -100,8 +85,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/L15P1douban/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L10/L10_l2_qqmusic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/L5/L5_lecture_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -183,8 +189,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="2220" />
-    <option name="width" value="340" />
+    <option name="x" value="1302" />
+    <option name="width" value="1258" />
     <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -212,66 +218,6 @@
             <path>
               <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
               <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-              <item name="douban" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L15jobui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L15jobui" type="462c0819:PsiDirectoryNode" />
-              <item name="L15jobui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L15P1douban" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L15P1douban" type="462c0819:PsiDirectoryNode" />
-              <item name="L15P1douban" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L15P1douban" type="462c0819:PsiDirectoryNode" />
-              <item name="L15P1douban" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L15P1douban" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="爬虫课" type="b2602c69:ProjectViewProjectNode" />
-              <item name="爬虫课" type="462c0819:PsiDirectoryNode" />
-              <item name="L15P1douban" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -440,23 +386,22 @@
       <workItem from="1564843035589" duration="34003000" />
       <workItem from="1565026062812" duration="24268000" />
       <workItem from="1565233843867" duration="115222000" />
-      <workItem from="1565719287693" duration="5586000" />
+      <workItem from="1565719287693" duration="7628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179079000" />
+    <option name="totallyTimeSpent" value="181121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1302" y="0" width="1258" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1768092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1768092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991883" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991883" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,7 +412,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50127876" side_tool="true" weight="0.329927" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" sideWeight="0.49872124" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="13" sideWeight="0.49872124" visible="true" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -531,8 +476,6 @@
     <SUITE FILE_PATH="coverage/$L14_l1.coverage" NAME="L14_l1 Coverage Results" MODIFIED="1565694780590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L14" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/L10/test.py" />
-    <entry file="file://$PROJECT_DIR$/L11/test.py" />
     <entry file="file://$PROJECT_DIR$/L10/L10_selenium_远程启动.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -817,20 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/douban/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -852,13 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L15P1douban/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/L15jobui/L15jobui/spiders/spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -869,26 +791,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/L15P1douban/storage/data/books.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="29" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316">
+          <caret line="21" selection-start-line="16" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/L15P1douban/L15P1douban/spiders/book50.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <caret line="28" column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L15P1douban/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L10/L10_l2_qqmusic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L5/L5_lecture_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
