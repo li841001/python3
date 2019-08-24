@@ -40,6 +40,7 @@ for i in range(5):
     #   根据点击歌词后的网络请求信息重写了params，经测试p为页数
 
     res_lyric = requests.get(url,headers=headers,params=params)
+    print(res_lyric.status_code)
     # 发起请求
     lyric_jason = res_lyric.json()
     #   获取json
@@ -47,4 +48,4 @@ for i in range(5):
     #   获取歌词列表
     for lyric_item in lyric_list:
         lyric = lyric_item['content']
-        print(lyric,'\n')
+        print(lyric.replace('\\n','\n').replace('<em>','').replace('</em>',''),'\n','--------','\n')
