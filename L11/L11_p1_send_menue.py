@@ -8,7 +8,7 @@ import time
 
 
 accout = 'li841001@163.com'
-psw = 'lijia841123'
+psw = input('请输入密码：')
 receiver = 'pluslee@foxmail.com'
 
 

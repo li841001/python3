@@ -26,7 +26,7 @@ mailhost='smtp.qq.com'
 qqmail = smtplib.SMTP_SSL()
 #实例化一个smtplib模块里的SMTP类的对象，这样就可以SMTP对象的方法和属性了
 account = 'li841001@qq.com'
-psw = 'bbgqqwhztonebicg'
+psw = input('请输入授权码：')
 qqmail.connect(mailhost,465)
 #连接服务器，第一个参数是服务器地址，第二个参数是SMTP端口号。
 #以上，皆为连接服务器的代码

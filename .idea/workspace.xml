@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7c5bb95-debb-4d1c-a52c-1cd153d6816b" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/L15P1douban/L15P1douban/spiders/book50.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/L15P1douban/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/L15jobui/L15jobui/spiders/spider.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/L15jobui/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/L15P1douban.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/L11_l1.py" beforeDir="false" afterPath="$PROJECT_DIR$/L11/L11_l1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/L11_p1_send_menue.py" beforeDir="false" afterPath="$PROJECT_DIR$/L11/L11_p1_send_menue.py" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -280,6 +287,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -440,7 +448,13 @@
       <workItem from="1564843035589" duration="34003000" />
       <workItem from="1565026062812" duration="24268000" />
       <workItem from="1565233843867" duration="115222000" />
+<<<<<<< Updated upstream
       <workItem from="1565719287693" duration="5586000" />
+=======
+      <workItem from="1565719287693" duration="13530000" />
+      <workItem from="1566049926028" duration="7051000" />
+      <workItem from="1566395272122" duration="5799000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -478,6 +492,25 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+>>>>>>> Stashed changes
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$L3_practice3.coverage" NAME="L3_practice3 Coverage Results" MODIFIED="1564945531984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L3" />
     <SUITE FILE_PATH="coverage/$L4_lecture_2.coverage" NAME="L4_lecture_2 Coverage Results" MODIFIED="1564988879171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/L4" />
